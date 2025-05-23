@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Huzaifa Khalid
-- 👀 I’m interested in coding with different languages
+- 👀 I’m interested in learning new computing concepts especially quantum computing
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me through my email: huzaifa.khalid3850@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
